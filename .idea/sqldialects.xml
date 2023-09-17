@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/Java1/Productinfo.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/../../../../oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc6.jar" dialect="GenericSQL" />
+  </component>
+</project>
